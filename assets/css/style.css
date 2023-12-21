@@ -2,7 +2,7 @@
 body {
   font-family: serif;
   font-size: 20px;
-  line-height: 1;
+
   /*background image from https://www.freepik.com */
   background-image: url("/assets/images/background.jpg");
   background-size: cover;
@@ -84,6 +84,7 @@ textarea {
 #currentDay {
   font-family: monospace;
   background-color: #ffffff51;
+
   display: inline;
   padding: 4px;
 }
