@@ -9,7 +9,7 @@ This Work Day Scheduler helps you as an employee with a busy schedule to add imp
 - HTML
 - CSS
 - Javascript
-- Bootstrap 
+- Bootstrap
 
 ## How to Use
 
@@ -17,14 +17,14 @@ When you open the planner the current day is displayed at the top of the calenda
 To use the daily planner to create a schedule, click into a time block and enter a task. Then click the save button,
 the text for that task will be saved in local storage.
 
-## Links  
+## Links
 
-- [The URL of the deployed website :arrow_right:](https://)
+- [The URL of the deployed website :arrow_right:](https://work-day-scheduler-five.vercel.app/)
 
 ## Screenshots
 
 The following is a screenshot of the deployed website.
-![alt text]()
+![alt text](/assets/images/Screenshot.png)
 
 ## Installation
 
